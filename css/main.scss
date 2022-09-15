@@ -72,7 +72,12 @@ section.hero {
     min-height: 100vh;
     background-image: url("../img/hero.jpg");
     background-size: cover;
-    padding: 1em;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 2em;
+    padding-bottom: 0em !important;
   }
 
   .backdrop__hero {
@@ -148,7 +153,12 @@ section.hero {
     min-height: 100vh;
     background-image: url("../img/hero.jpg");
     background-size: cover;
-    padding: 1em;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 2em;
+    padding-bottom: 0em !important;
   }
 
   .backdrop__hero {
