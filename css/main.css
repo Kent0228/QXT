@@ -17,7 +17,12 @@ section.hero {
   min-height: 100vh;
   background-image: url("../img/hero.jpg");
   background-size: cover;
-  padding: 2em;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: 2em;
+  padding-bottom: 0em !important;
 }
 
 .backdrop__hero {
@@ -308,7 +313,12 @@ section.Section_3 {
   min-height: 100vh;
   background-image: url("../img/bg1.jpg");
   background-size: cover;
-  padding: 2em;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: 2em;
+  padding-bottom: 0em;
 }
 
 .backdrop__s3 {
@@ -352,7 +362,10 @@ section.Section_4 {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  padding: 2em;
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: 2em;
+  padding-bottom: 0em;
 }
 
 .backdrop__s4 {
